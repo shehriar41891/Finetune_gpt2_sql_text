@@ -1,0 +1,2 @@
+This project uses llama 2 and finetune it's weights and bias terms on dataset of text to sql generation
+

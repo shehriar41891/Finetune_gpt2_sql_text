@@ -1,0 +1,8 @@
+# Ignore requirements.txt
+requirements.txt
+
+# Ignore virtual environment
+ve_llama/
+
+#ignore the model directory also
+model/
